@@ -1,1 +1,2 @@
 # Hate Speech Detection
+Social media, platforms like Twitter have become significant channels for public discourse. However, the open nature of these platforms also means they are susceptible to misuse through the spread of hate speech and offensive language. Detecting such content manually is impractical due to the sheer volume of tweets generated daily. Therefore, there is a need for automated systems that can efficiently and accurately classify tweets to ensure a safe and respectful online environment.
